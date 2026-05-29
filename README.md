@@ -4,7 +4,7 @@ A data analytics project built around retirement plan participant data  defined 
 
 The dataset is synthetic  I generated it in Python  but it's modeled on how real multiemployer and public retirement plan records are structured. 12,000 participants across 3 plan types, 5 regions, and 7 industries.
 
----
+----
 
 ## what this project does
 

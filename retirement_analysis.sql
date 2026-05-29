@@ -121,7 +121,7 @@ FROM retirement_data
 GROUP BY industry
 ORDER BY avg_contribution_pct DESC;
 
--- =====================
+-- ====================
 -- 5. FUNDED STATUS RISK
 
 
