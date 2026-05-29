@@ -1,6 +1,6 @@
 # retirement-plan-analytics
 
-**[▶ View Live Dashboard](https://htmlpreview.github.io/?https://github.com/divyarajchavda73-cmyk/retirement-plan-analytics/blob/main/Retirement Plan Analytics Dashboard.html)**
+**[▶ View Live Dashboard](https://htmlpreview.github.io/?https://github.com/divyarajchavda73-cmyk/retirement-plan-analytics/blob/main/retirement_dashboard.html)**
 
 A data analytics project built around retirement plan participant data — defined benefit pensions, 401(k)s, and annuities. Built to match the kind of work an actuarial technology team does: mining large retirement datasets and turning them into dashboards and reporting.
 
